@@ -29,8 +29,8 @@
 }
 
 #navbar__logo {
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%,
+    background-color: #d64499;
+    background-image: linear-gradient(to top, #d64499 0%,
             #ffb199 100%);
     background-size: 100%;
     -webkit-background-clip: text;
@@ -88,7 +88,7 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #f77062;
+    background: #e42d9b;
     color: white;
 }
 
@@ -98,7 +98,7 @@
 }
 
 .navbar__links:hover {
-    color: #f77062;
+    color: #e42d9b;
     transition: all 0.3s ease;
 }
 
@@ -220,8 +220,8 @@
 
 .main__content h1 {
     font-size: 4rem;
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-color: #d64499;
+    background-image: linear-gradient(to top, #d64499 0%, #ffb199 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -231,7 +231,7 @@
 
 .main__content h2 {
     font-size: 4rem;
-    background-color: #ff8177;
+    background-color: #d64499;
     background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
     background-size: 100%;
     -webkit-background-clip: text;
@@ -249,7 +249,7 @@
 
 .main__btn {
     font-size: 1rem;
-    background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+    background-image: linear-gradient(to top, #e42d9b 0%, #fe5196 100%);
     padding: 14px 32px;
     border: none;
     border-radius: 4px;
@@ -363,8 +363,8 @@
 }
 
 .services h1 {
-    background-color: #ff8177;
-    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b1285b 100%);
+    background-color: #d64499;
+    background-image: linear-gradient(to right, #d64499 0%, #d24f9c 0%, #d64499 21%, #c2468e 52%, #d64499 78%, #b1285b 100%);
     background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
@@ -415,7 +415,7 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #f77062;
+    background: #e42d9b;
     position: absolute;
     top: 440px;
     left: 30px;
@@ -509,7 +509,7 @@
 }
 
 .footer__link--items a:hover {
-    color: #f77062;
+    color: #e42d9b;
     transition: 0.3s ease-out;
 }
 
