@@ -124,7 +124,6 @@
         transition: all 0.5s ease;
         height: 50vh;
         z-index: -1;
-        /* background: #131313; */
     }
 
     .navbar__menu.active {
@@ -291,8 +290,6 @@
 
 .main__img--container {
     text-align: center;
-    /* height: 100%;
-    width: 100%; */
 }
 
 #main__img {
@@ -544,17 +541,6 @@
     width: 240px;
 }
 
-/* .social__logo {
-    color: white;
-    justify-self: flex-start;
-    margin-left: 20px;
-    cursor: pointer;
-    text-decoration: none;
-    font-size: 2rem;
-    display: flex;
-    align-items: center;
-    margin-bottom: 16px;
-} */
 
 .website__right {
     color: white;
